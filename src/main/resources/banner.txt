@@ -2,12 +2,10 @@ ${AnsiColor.BRIGHT_YELLOW}
 Application Version: ${fuce.version}
 Spring Boot Version: ${spring-boot.version}
 *******************************************
-* 码云地址                                                          *
-* https://gitee.com/iboomer/SpringBoot_v2 *
-*                                         *
+*                  Bowen                  *
 *******************************************
            _.._        ,------------------------.
-        ,'      `.    ( SpringBoot_v2谁用谁知道! )
+        ,'      `.    ( SpringBoot谁用谁知道!   )
        /  __) __` \    `-,----------------------`
       (  (`-`(-')  ) _.-'
       /)  \  = /  (
